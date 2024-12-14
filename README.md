@@ -219,14 +219,6 @@ La netlist générée par Quartus Prime Lite pour l'implémentation sur un FPGA 
 ![Netlist](https://github.com/user-attachments/assets/4a90b01a-fdb6-4212-b436-51ae67d04421)
 
 
-### Étapes pour générer la netlist :
-1. Ouvrez Quartus Prime Lite.
-2. Créez un nouveau projet et ajoutez vos fichiers VHDL.
-3. Compilez le projet.
-4. Exportez la netlist en sélectionnant l'option "Netlist" dans les options de génération.
-
-Le fichier de netlist peut ensuite être utilisé pour l'implémentation physique sur un FPGA.
-
 ## Outils Utilisés
 
 - **Quartus Prime Lite** : Logiciel pour la conception et l'implémentation sur FPGA.

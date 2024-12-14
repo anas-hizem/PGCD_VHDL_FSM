@@ -209,11 +209,15 @@ Le chronogramme montre l'évolution des signaux au cours de la simulation. On pe
 
 Voici une capture d'écran typique du chronogramme (généré à partir de ModelSim) :
 
-![Chronogramme](chronogramme.png)
+![Chronogramme](https://github.com/user-attachments/assets/2711067c-b4a2-4898-9039-dd78508e0134)
+
 
 ## Netlist
 
 La netlist générée par Quartus Prime Lite pour l'implémentation sur un FPGA montre les connexions physiques entre les composants logiques. Vous pouvez générer la netlist en utilisant Quartus Prime Lite après avoir compilé le projet VHDL.
+
+![Netlist](https://github.com/user-attachments/assets/4a90b01a-fdb6-4212-b436-51ae67d04421)
+
 
 ### Étapes pour générer la netlist :
 1. Ouvrez Quartus Prime Lite.
